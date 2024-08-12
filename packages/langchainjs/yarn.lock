@@ -8688,6 +8688,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"axios@npm:^0.28.0":
+  version: 0.28.1
+  resolution: "axios@npm:0.28.1"
+  dependencies:
+    follow-redirects: ^1.15.0
+    form-data: ^4.0.0
+    proxy-from-env: ^1.1.0
+  checksum: 5115a38d79064d07437c5a28f15841e3607634040e3120ec06a2c4367a7d07cf213b16496eab53b6f58ebc5fb377a440ba9ed4782529b14449a1e285734bfb54
+  languageName: node
+  linkType: hard
+
 "axios@npm:^1.1.3, axios@npm:^1.4.0":
   version: 1.4.0
   resolution: "axios@npm:1.4.0"
@@ -11677,7 +11688,7 @@ __metadata:
     "@upstash/redis": ^1.20.6
     "@xata.io/client": ^0.25.1
     "@zilliz/milvus2-sdk-node": ^2.2.7
-    axios: ^0.26.0
+    axios: ^0.28.0
     chromadb: ^1.4.0
     dotenv: ^16.0.3
     eslint: ^8.33.0
@@ -14932,7 +14943,7 @@ __metadata:
     "@zilliz/milvus2-sdk-node": ">=2.2.11"
     ansi-styles: ^5.0.0
     apify-client: ^2.7.1
-    axios: ^0.26.0
+    axios: ^0.28.0
     binary-extensions: ^2.2.0
     camelcase: 6
     cheerio: ^1.0.0-rc.12
